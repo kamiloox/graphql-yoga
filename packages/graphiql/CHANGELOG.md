@@ -1,5 +1,12 @@
 # @graphql-yoga/graphiql
 
+## 3.0.1
+
+### Patch Changes
+
+- [#2167](https://github.com/dotansimha/graphql-yoga/pull/2167) [`a7bfdf2e`](https://github.com/dotansimha/graphql-yoga/commit/a7bfdf2e7b6c8d4a0578cf4db1770d6e04fb28a8) Thanks [@renovate](https://github.com/apps/renovate)! - dependencies updates:
+  - Updated dependency [`@graphql-tools/url-loader@7.16.20` ↗︎](https://www.npmjs.com/package/@graphql-tools/url-loader/v/7.16.20) (from `7.16.19`, in `dependencies`)
+
 ## 3.0.0
 
 ### Major Changes
